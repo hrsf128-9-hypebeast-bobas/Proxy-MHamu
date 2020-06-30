@@ -1,0 +1,26 @@
+[
+    {
+        "packageName": "Locals-Say-Matthew",
+        "seedScript": "db:seed",
+        "dbName": "locals-say",
+        "url": "http://localhost:7777"
+    },
+    {
+        "packageName": "Mortgage-Calculator-Kim",
+        "seedScript": "db:setup",
+        "dbName": "trulia",
+        "url": "http://localhost:3333"
+    },
+    {
+        "packageName": "Tour-Scheduling-Sam",
+        "seedScript": "db:seed",
+        "dbName": "tourschedule",
+        "url": "http://localhost:3001"
+    },
+    {
+        "packageName": "Similar_Homes_JKwan",
+        "seedScript": "db:setup",
+        "dbName": "trulia",
+        "url": "http://localhost:3003"
+    }
+]

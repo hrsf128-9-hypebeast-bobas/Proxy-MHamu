@@ -1,0 +1,6 @@
+
+# primary setup script #
+"get:er:done": "node ./scripts/proxy-setup.js"
+
+# launch all components in default browser #
+"launch": "node ./scripts/launch.js"

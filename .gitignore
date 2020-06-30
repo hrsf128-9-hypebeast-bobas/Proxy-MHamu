@@ -1,0 +1,7 @@
+
+# group repos
+!repos/
+repos/*
+
+# node modules
+/node_modules
